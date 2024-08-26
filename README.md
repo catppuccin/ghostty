@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/ghostty/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/ghostty?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/ghostty/issues"><img src="https://img.shields.io/github/issues/catppuccin/ghostty?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/ghostty/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/ghostty?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/uncenter/ctp-ghostty/stargazers"><img src="https://img.shields.io/github/stars/uncenter/ctp-ghostty?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/uncenter/ctp-ghostty/issues"><img src="https://img.shields.io/github/issues/uncenter/ctp-ghostty?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/uncenter/ctp-ghostty/contributors"><img src="https://img.shields.io/github/contributors/uncenter/ctp-ghostty?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
