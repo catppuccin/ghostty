@@ -36,8 +36,9 @@
 
 ## Usage
 
-> [!TIP]
-> Ghostty ships with built-in themes from [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes), which includes the Catppuccin flavors. Set `theme = catppuccin-<flavor>`, where `<flavor>` is one of `latte`, `frappe`, `macchiato`, or `mocha`.
+Catppuccin is included in [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes), which Ghostty uses for the default themes. Set `theme = catppuccin-<flavor>` in your [Ghostty configuration file](https://github.com/ghostty-org/ghostty#configuration), where `<flavor>` is one of `latte`, `frappe`, `macchiato`, or `mocha`.
+
+Alternatively, you can manually import the themes from this repository by following the instructions below:
 
 1. Copy the contents of your flavor of choice from [`themes/`](./themes/) to your [Ghostty configuration file](https://github.com/ghostty-org/ghostty#configuration).
 2. Reload or restart Ghostty.
