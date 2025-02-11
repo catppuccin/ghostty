@@ -37,8 +37,8 @@
 ## Usage
 
 1. Copy the contents of your flavor of choice from [`themes/`](./themes/) to the `themes/` subdirectory your [Ghostty configuration directory](https://ghostty.org/docs/config#file-location).
-3. Set `theme = catppuccin-<flavor>` in your [Ghostty configuration *file*](https://ghostty.org/docs/config#file-location), where `<flavor>` is one of `latte`, `frappe`, `macchiato`, or `mocha`.
-4. Reload or restart Ghostty.
+2. Set `theme = catppuccin-<flavor>.conf` in your [Ghostty configuration *file*](https://ghostty.org/docs/config#file-location), where `<flavor>` is one of `latte`, `frappe`, `macchiato`, or `mocha`.
+3. Reload or restart Ghostty.
 
 > [!NOTE]
 > For further theme configuration reference, see https://ghostty.org/docs/config/reference#theme.
