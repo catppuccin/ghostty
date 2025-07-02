@@ -12,7 +12,7 @@ palette = 3=#{{ yellow.hex }}
 palette = 4=#{{ blue.hex }}
 palette = 5=#{{ pink.hex }}
 palette = 6=#{{ teal.hex }}
-palette = 7=#{{ if(cond=flavor.dark, t=subtext1.hex, f=surface2.hex) }}
+palette = 7=#{{ if(cond=flavor.dark, t=subtext0.hex, f=surface2.hex) }}
 palette = 8=#{{ if(cond=flavor.dark, t=surface2.hex, f=subtext0.hex) }}
 palette = 9=#{{ red.hex }}
 palette = 10=#{{ green.hex }}
@@ -20,7 +20,7 @@ palette = 11=#{{ yellow.hex }}
 palette = 12=#{{ blue.hex }}
 palette = 13=#{{ pink.hex }}
 palette = 14=#{{ teal.hex }}
-palette = 15=#{{ if(cond=flavor.dark, t=subtext0.hex, f=surface1.hex) }}
+palette = 15=#{{ if(cond=flavor.dark, t=subtext1.hex, f=surface1.hex) }}
 background = {{ base.hex }}
 foreground = {{ text.hex }}
 cursor-color = {{ rosewater.hex }}
