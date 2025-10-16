@@ -27,3 +27,4 @@ cursor-color = {{ rosewater.hex }}
 cursor-text = {{ if(cond=flavor.light, t=base.hex, f=crust.hex) }}
 selection-background = {{ overlay2 | mix(color=base, amount=0.2) | get(key="hex") }}
 selection-foreground = {{ text.hex }}
+split-divider-color = {{ surface0.hex }}
