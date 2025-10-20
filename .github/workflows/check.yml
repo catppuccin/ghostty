@@ -1,0 +1,15 @@
+name: Whiskers
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check:
+    uses: catppuccin/actions/.github/workflows/whiskers-check.yml@v1
+    with:
+      args: ghostty.tera
+    secrets: inherit
