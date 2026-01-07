@@ -36,7 +36,7 @@
 
 ## Usage
 
-Set `theme = catppuccin-<flavor>` in your [Ghostty configuration file](https://ghostty.org/docs/config#file-location), where `<flavor>` is one of `latte`, `frappe`, `macchiato`, or `mocha`.
+Set `theme = Catppuccin <flavor>` in your [Ghostty configuration file](https://ghostty.org/docs/config#file-location), where `<flavor>` is one of `Latte`, `Frappe`, `Macchiato`, or `Mocha`.
 
 ### Direct/Manually
 
